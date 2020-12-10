@@ -9,4 +9,6 @@ This project contains the design of a two-stage op-amp with high gain and phase 
 - After reaching the desired measurements, the layout of the design is done.
 - DRC and LVS clean are achieved. 
  
-
+### Software Used: Cadence Virtuoso
+### Time Frame: Oct 2018
+### Course : Analog Electronics Design ( EE610 )
